@@ -7,9 +7,10 @@ Welcome to the VS Code Java world. Here is a guideline to help you get started t
 ## Folder Structure
 ## Desktop\ApartmentApplication2.0
 
-STEP 1 [press] ctrl + shift + p
-STEP 2 [click] create java project
-STEP 3 [click] no build tools
+STEP 1 [press] open VSCode
+STEP 2 [press] ctrl + shift + p
+STEP 3 [click] create java project
+STEP 4 [click] no build tools
 Make sure you click /ApartmentApplication2.0 as your Java location
 
 The workspace contains two folders by default, where:
