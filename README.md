@@ -4,9 +4,13 @@
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
-## MAKE SURE THE ZIPPED FOLDER APPEARS SIMILAR TO THIS
-## Desktop\ApartmentApplication2.0
 ## Folder Structure
+## Desktop\ApartmentApplication2.0
+
+STEP 1 [press] ctrl + shift + p
+STEP 2 [click] create java project
+STEP 3 [click] no build tools
+Make sure you click /ApartmentApplication2.0 as your Java location
 
 The workspace contains two folders by default, where:
 
