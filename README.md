@@ -1,4 +1,4 @@
-# ApartmentApplication2.0
+# IB Comp Sci Internal Assessment
 
 ## Getting Started
 
