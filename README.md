@@ -1,4 +1,5 @@
-# IB Comp Sci Internal Assessment
+# Riu Plaza Stays
+# High School IB Comp Sci Internal Assessment
 
 ## Getting Started
 
