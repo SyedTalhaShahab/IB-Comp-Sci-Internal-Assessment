@@ -1,4 +1,4 @@
-Your vs code EXPLORER needs to show this exact directory layout for it to work
+Your vs code EXPLORER tab needs to show this exact directory layout for this program to work
 
 # ADMIN LOGIN:
 # USERNAME MuneebShuaib
