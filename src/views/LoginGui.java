@@ -152,7 +152,7 @@ public class LoginGui extends JFrame implements ActionListener, KeyListener, Mou
         String username = String.valueOf(textField.getText());
         String password = String.valueOf(passwordField.getPassword());
         if (e.getSource() == adminBtn) {
-            if (true) { // new Tools().searchA(username, password)
+        if (new Tools().searchA(username, password)) { // replace true in if statement to avoid user and pass
                 new AdminGui();
                 this.dispose();
             } else {
